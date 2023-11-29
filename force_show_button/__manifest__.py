@@ -3,7 +3,7 @@
     'name': "force_show_button",
 
     'summary': """
-        force show list header button for odoo
+        force show header button for odoo
     """,
 
     'description': """
